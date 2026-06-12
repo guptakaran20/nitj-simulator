@@ -1,0 +1,6 @@
+{
+  "name": "NIT Jalandhar Simulator",
+  "description": "An interactive 2D simulation game of student life, academic challenges, fests, and placements at Dr B R Ambedkar National Institute of Technology, Jalandhar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
